@@ -1,7 +1,7 @@
 {
   "name": "@notchpay/payment",
   "version": "1.0.0",
-  "description": "Notch Pay API wrapper",
+  "description": "Notch Pay API wrapper.",
   "main": "lib/index.js",
   "keywords": [
     "notchpay",
