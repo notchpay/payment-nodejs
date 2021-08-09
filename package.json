@@ -1,0 +1,33 @@
+{
+  "name": "@notchpay/payment",
+  "version": "1.0.0",
+  "description": "Notch Pay API wrapper",
+  "main": "lib/index.js",
+  "keywords": [
+    "notchpay",
+    "stripe",
+    "payment processing",
+    "credit cards",
+    "orange money",
+    "payment gateways",
+    "mobile money",
+    "api"
+  ],
+  "author": "Chapdel KAMGA <chapdel.kamga2@gmail.com>",
+  "homepage": "https://github.com/notchpay/payment-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/notchpay/payment-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notchpay/payment-nodejs.git"
+  },
+  "engines": {
+    "node": "^8.1 || >=10.*"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "window-open": "^1.0.0"
+  }
+}
