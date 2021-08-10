@@ -27,7 +27,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
-    "window-open": "^1.0.0"
+    "axios": "^0.21.1"
   }
 }
